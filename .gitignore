@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data
+ohsumed-first-20000-docs/**
+ohsumed-first-20000-docs/
+/ohsumed-first-20000-docs/
+/ohsumed-first-20000-docs
